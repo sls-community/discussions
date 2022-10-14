@@ -1,2 +1,3 @@
-# discussions
-Serverless Community Discussions and Agreements
+# Serverless Community Discussions and Converged Knowledge
+
+Serverless Community Discussions and Converged Knowledge
