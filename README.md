@@ -11,3 +11,19 @@ To contribute, if you have several options:
 - If you want to suggest rules or community policies, please clone the repo, create a new branch, and open a PR against the main branch.
 
 The content of this repository is licensed according to the [MIT License](./LICENSE).
+
+## Topic Organization
+
+The repository is organized into topics and the content must be added to a specific topic folder.  
+Suggestions to change the topic organization can be provided using Pull Requests.
+
+The current topic organization is:
+
+- [Serverless Compute](./compute/)
+- [Serverless Databases](./databases/)
+- [Serverless Identity Management](./identity/)
+- [Serverless Paradigm](./paradigm/)
+- [Serverless Security](./security/)
+- [Serverless Storage](./storage/)
+- [Serverless Workflow](./workflow/)
+- [Community Rules, Policies, and Processes](./meta/)
