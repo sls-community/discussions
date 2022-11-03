@@ -1,14 +1,21 @@
-# Serverless Community Discussions and Converged Knowledge
+# Serverless Community Converged Knowledge
 
 This space is reserved to evolve Serverless Knowledge collaboratively.  
 Any Serverless Enthusiast is encouraged to contribute to creating content.  
 We ask for your help in developing the knowledge and also engagement rules for the community.
 
-To contribute, if you have several options:
+This space recognizes that it does not comprehend the entire Serverless Community.  
+There are active Serverless Community members that do not know this space or don't want to contribute to it.  
+The ones that take part in this space, respect that decision and hope that they decide to join in the future.
 
-- If you want to ask something from the community, please open a [GitHub Issue](https://github.com/sls-community/discussions/issues/new).
-- If you want to start a discussion about any Serverless subject, please clone the repo, create a new branch, and open a PR against the main branch.
-- If you want to suggest rules or community policies, please clone the repo, create a new branch, and open a PR against the main branch.
+We do not elect ourselves as Serverless Community representatives or spokespersons.  
+Our main goal is to provide an additional spot for the community to engage and develop itself.
+
+To contribute, you have several options:
+
+- If you want the Community to answer a question, please open a [GitHub Issue](https://github.com/sls-community/discussions/issues/new).
+- If you want to start a discussion about any Serverless subject, please create a new branch, and open a PR against the main branch.
+- If you want to suggest rules or community policies, please create a new branch, and open a PR against the main branch.
 
 The content of this repository is licensed according to the [MIT License](./LICENSE).
 
